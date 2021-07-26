@@ -1,7 +1,7 @@
-# Проект «---»
+# Проект «Binary»
 
 ---
-## Ссылка на сайт - [https://vanyusha-pupkin.github.io/---/](https://vanyusha-pupkin.github.io/---/)
+## Ссылка на сайт - [https://vanyusha-pupkin.github.io/binary/](https://vanyusha-pupkin.github.io/binary/)
 
 ## Как использовать
 
