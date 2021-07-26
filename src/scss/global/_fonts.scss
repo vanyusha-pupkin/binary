@@ -1,6 +1,13 @@
 // font
 //@include font-face("название","имя файла", "локальное имя 1", "локальное имя 2", вес шрифта, стиль);
 
+@include font-face("Lato","Lato-Light", "Lato Light", "Lato-Light", 300, normal);
+@include font-face("Lato","Lato-Regular", "Lato", "Lato-Regular", 400, normal);
+@include font-face("Lato","Lato-Bold", "Lato Bold", "Lato-Bold", 700, normal);
+@include font-face("Lato","Lato-Black", "Lato Black", "Lato-Black", 900, normal);
+
+@include font-face("Myriad Pro","MyriadPro-Regular", "Myriad Pro", "MyriadPro-Regular", 400, normal);
+
 
 // template
 // @include font-face("","", "", "", 400, normal);
