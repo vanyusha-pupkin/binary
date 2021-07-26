@@ -19,7 +19,7 @@ $padding-bp-3:      $p-bp-3 + px;
 
 //SIZE
 $w-layout: 1920;
-$w-max: 1200;
+$w-max: 1100;
 $w-bp-1: 970;
 $w-bp-2: 750;
 $w-bp-3: 420;
@@ -50,14 +50,17 @@ $bp-4: 479.98;
 //COLOR
 $color-black: #000000;
 $color-white: #ffffff;
+$color-gray: #868585;
+$color-brown: #ada074;
+$color-nav-link: #3c3c3c;
 
 
 //FONT
-$font-family-base: "Arial", sans-serif;
-$font-size-base: 16px;
-$line-height-base: 140%;
-$font-weight-base: 400;
-$font-color-base: $color-black;
+$font-family-base: "Lato", "Arial", sans-serif;
+$font-size-base: 14px;
+$line-height-base: 26 / 14 * 100%;
+$font-weight-base: 300;
+$font-color-base: $color-gray;
 
 //BACKGROUND
 $body-bg-color: $color-white;
